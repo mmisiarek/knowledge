@@ -4,7 +4,8 @@
 suspicious
 
 ## have an axe to grind
-to have a selfish reason for saying or doing something
+to have a strong personal opinion about something that you want people to accept and that is the reason why you do something
+( _miec w czyms interes_ )
 
 ## have a vested interest in sth
 a strong personal interest in something because you could get an advantage from it
@@ -45,6 +46,9 @@ say what you really belive
 ## sitting on the fence
 being unable to commit yourself to on opinion or one side
 
-## beat about the bush 
+## beat about the bush
 talk a lot, but avoid directly addressing the most important point ( _owijać w bawełnę_ )
+
+## clergy
+( _ksieza_ )
 

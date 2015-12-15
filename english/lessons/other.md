@@ -24,3 +24,28 @@ the feeling of being annoyed
 ## drive somebody up the wall
 to make someone very angry
 ( _doprowadzać kogoś do szału_ )
+
+## drip feed
+A device for introducing fluid drop by drop into a system, for example lubricating oil into an engine.
+( _kroplówka_ )
+
+## transience
+krótkotrwalosc
+
+## sinister
+zlowieszczy
+
+## shoddy
+tandeta
+
+## woes
+nieszczescia
+
+## fractious
+krnabrny / klotliwy
+
+## to get cross
+gniewac sie / pogniewac sie
+
+
+
