@@ -40,7 +40,7 @@ get angry
 the first meeting with the project team and the client of the project
 
 ## a deliverable
-a tngible, measurable output of a task, for example a document or a product
+a tengible, measurable output of a task, for example a document or a product
 
 ## a timeline
 a schedule of activities

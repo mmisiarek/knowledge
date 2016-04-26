@@ -1,3 +1,24 @@
+# Making things clear
+  * **You've probably wonder why...** ( I made this... )
+  * **Sorry I missed that. Could you say it again?**
+  * **Can I get this clear? You're saying that ...**
+  * **How did you arrive at sth...** (How did you reach decission / solution etc)
+  * **What exactly do you mean by '*term*'?**
+  * **Correct me if I'm wrong**
+  * **Please allow me to explain**
+  * **Could you be a more specific?**
+  * **So in other words**
+  * **Perhaps I haven't explained myself clearly**
+  * **What I meant was that ...**
+  * **Could I just say sth?**
+  * **What I was trying to say was that...**
+  * **Sorry I didn't understand. Can you explain that again?**
+  * :bangbang: **Can you run through that again?** ( explain quickly )
+  * :bangbang: **Can you go over that again?**
+  * ****
+  * ****
+  * ****
+
 ## pull together
 to work hard as a group in order to achieve something
 
