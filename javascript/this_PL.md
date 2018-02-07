@@ -3,7 +3,7 @@ W JavaScripcie wartość parametru this nie zależy od deklaracji, ale od tego j
 
 ## Wywołanie jako zwykła funkcja
 
-W tym przypadku kontekstem jest obiekt globalny (window)
+W tym przypadku kontekstem domyślnie jest obiekt globalny (window). W strict mode natomiast będzie to `undefined` 
 
 
 ```javasript
